@@ -284,13 +284,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-## 👤 Author
-
-**Nandu**
-
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
 
 ---
 
